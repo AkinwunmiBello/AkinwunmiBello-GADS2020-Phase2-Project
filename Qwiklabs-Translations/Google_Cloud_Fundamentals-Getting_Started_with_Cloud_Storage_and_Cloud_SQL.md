@@ -13,9 +13,9 @@ In this lab, I learnt how to perform the following tasks:
 
 1. Deploy a web server VM instance
     ```
-    gcloud compute instances create bloghost --zone=us-central1-a --machine-type=e2-medium --subnet=default --metadata=startup-script=apt-get update$'\n'apt-get\ install\ apache2\ php\ php-mysql\ -y$'\n'service\ apache2\ restart --tags=http-server --image=debian-9-stretch-v20200805 --image-project=debian-cloud
+    gcloud compute instances create bloghost --zone=us-central1-a --machine-type=e2-medium --subnet=default --metadata=startup-script=apt-get update$'\n'apt-get\ install\ apache2\ php\ php-mysql\ -y$'\n'service\ apache2\ restart --tags=http-server --image=debian-9-stretch-v20200805 --image-project=debian-cloud //to create the VM
 
-    gcloud compute firewall-rules create default-allow-http --direction=INGRESS --priority=1000 --network=default --action=ALLOW --rules=tcp:80 --source-ranges=0.0.0.0/0 --target-tags=http-server
+    gcloud compute firewall-rules create default-allow-http --direction=INGRESS --priority=1000 --network=default --action=ALLOW --rules=tcp:80 --source-ranges=0.0.0.0/0 --target-tags=http-server //to configure firewall rule
     ```
 
 2. Create a Cloud Storage bucket using the gsutil command line
