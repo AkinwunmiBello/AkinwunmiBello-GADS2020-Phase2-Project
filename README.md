@@ -7,15 +7,15 @@ There are two folders in this repository.
 1. Qwiklabs-Completion-Screenshots: which contains 15 screenshots of labs completed.
 2. Qwiklabs-Translations: which contains 3 lab translations.
 
-In the table below are the labs completed.
+**In the table below are the labs completed.**
 
 S/N | Name
----: | ---
+---: | :---
 1   | Google Cloud Fundamentals: Getting Started with Cloud Marketplace
 2   | Google Cloud Fundamentals: Getting Started with Cloud Storage and Cloud SQL
 
-In the table below are the labs translated.
+**In the table below are the labs translated.**
 
 S/N | Name
----: | ---
+---: | :---
 1   | Google Cloud Fundamentals: Getting Started with Cloud Storage and Cloud SQL
