@@ -12,10 +12,12 @@ There are two folders in this repository.
 S/N | Name
 ---: | :---
 1   | Google Cloud Fundamentals: Getting Started with Cloud Marketplace
-2   | Google Cloud Fundamentals: Getting Started with Cloud Storage and Cloud SQL
+2   | Google Cloud Fundamentals: Getting Started with Compute Engine
+3   | Google Cloud Fundamentals: Getting Started with Cloud Storage and Cloud SQL
 
 **In the table below are the labs translated.**
 
 S/N | Name
 ---: | :---
-1   | Google Cloud Fundamentals: Getting Started with Cloud Storage and Cloud SQL
+1   | Google Cloud Fundamentals: Getting Started with Compute Engine
+2   | Google Cloud Fundamentals: Getting Started with Cloud Storage and Cloud SQL
