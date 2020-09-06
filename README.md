@@ -16,6 +16,9 @@ S/N | Name
 3   | Google Cloud Fundamentals: Getting Started with Cloud Storage and Cloud SQL
 4   | Google Cloud Fundamentals: Getting Started with Google Kubernetes Engine
 5   | Google Cloud Fundamentals: Getting Started with App Engine
+6   | Google Cloud Fundamentals: Getting Started with Deployment Manager and Stackdriver
+7   | Google Cloud Fundamentals: Getting Started with BigQuery
+
 
 **In the table below are the labs translated.**
 
