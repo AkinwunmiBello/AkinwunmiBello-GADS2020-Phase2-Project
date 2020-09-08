@@ -21,6 +21,11 @@ S/N | Name
 8   | Infrastructure Preview
 9   | Creating Virtual Machines
 10  | Implementing Cloud SQL
+11  | Examining Billing data with BigQuery
+12  | Resource Monitoring
+13  | Error Reporting and Debugging
+14  | AK8S-02 Working with Cloud Build
+15  | AK8S-03 Creating a GKE Cluster via GCP Console
 
 **In the table below is the list of labs translated.**
 
